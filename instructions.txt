@@ -1,0 +1,1 @@
+Implement ITextAnalyzer so that the program works.
